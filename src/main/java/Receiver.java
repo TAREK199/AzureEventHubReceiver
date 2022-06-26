@@ -7,10 +7,10 @@ import java.util.function.Consumer;
 
 public class Receiver{
 
-    private static final String connectionString = "Endpoint=sb://nbs-monitor-prod-evh-ns.servicebus.windows.net/;SharedAccessKeyName=authorization-0;SharedAccessKey=H18C3NMQOpH/XoQGS7MavvzKmOAopsA77nFBR0IGwRs=;EntityPath=nbs-monitor-prod-evh";
-    private static final String eventHubName = "nbs-monitor-prod-evh";
-    private static final String storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=mystoragetarek;AccountKey=fEGlFnKHmti7kDBhyseuLdg+yq1oPxh2faL8gB5hio4Jghe+602THgeRAZcCM5PYmizr/0/5GiKT+AStF/v0+A==;EndpointSuffix=core.windows.net";
-    private static final String storageContainerName = "container-test";
+    private static final String connectionString = "Your Connection String here";
+    private static final String eventHubName = "Your eventhub name here";
+    private static final String storageConnectionString = "The stotage account connection string here";
+    private static final String storageContainerName = "The container name here";
 
 
 
